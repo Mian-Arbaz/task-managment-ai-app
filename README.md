@@ -1,4 +1,4 @@
-# task-managment-ai-app
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8682bab6-73c3-4ec3-9b1d-619c702ba8fe" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/00abd0c8-4e98-4681-bd96-5323ae3c1bc2" /># task-managment-ai-app
 Full-stack task managment app with AI-powered task suggestion. 
 Here’s a **ready-to-use README.md template** for your GitHub repo.
 It’s tailored for the Task Management AI App you described.
@@ -128,12 +128,11 @@ pip install transformers torch
 
 ## 🖼️ Screenshots
 
+
+
 | Login                           | Dashboard                               |
 | ------------------------------- | --------------------------------------- |
 | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
-
----
-![Uploading image.png…]()
 
 ## 🧪 Usage
 

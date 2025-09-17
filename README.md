@@ -133,6 +133,7 @@ pip install transformers torch
 | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
 
 ---
+![Uploading image.png…]()
 
 ## 🧪 Usage
 

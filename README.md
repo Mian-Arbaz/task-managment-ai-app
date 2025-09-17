@@ -1,7 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/00abd0c8-4e98-4681-bd96-5323ae3c1bc2" /># task-managment-ai-app
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/00abd0c8-4e98-4681-bd96-5323ae3c1bc2" /> task-managment-ai-app
 Full-stack task managment app with AI-powered task suggestion. 
-Here’s a **ready-to-use README.md template** for your GitHub repo.
-It’s tailored for the Task Management AI App you described.
 
 ---
 

@@ -3,7 +3,7 @@ Full-stack task managment app with AI-powered task suggestion.
 
 ---
 
-```markdown
+markdown
 # Task Management AI App
 
 A **full-stack web application** for managing tasks with **AI-powered suggestions**.  
